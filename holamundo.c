@@ -1,5 +1,3 @@
-/* Programa: Hola mundo */
-
 
 int main()
 {
