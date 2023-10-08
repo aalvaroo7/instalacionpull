@@ -1,7 +1,7 @@
 
 int main()
 {
-    printf( "Hola mundo." );
+    print( "Hola mundo." );
 
     getch(); /* Pausa */
 
